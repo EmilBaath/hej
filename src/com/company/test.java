@@ -5,5 +5,9 @@ public class test{
 			this.number = number;
 	}
 	
+	public getNumber() {
+		return number;
+	}
+	
 	
 }
